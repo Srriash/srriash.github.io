@@ -1,1 +1,3 @@
-# srriash.github.io
+# Sriashwin Sridharan
+## About me
+Student of Weizmann instiutute
