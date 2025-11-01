@@ -1,4 +1,4 @@
-Hello, I'm Ashwin
+Hello, I'm [Ashwin](https://www.weizmann.ac.il/pages/search/people?keywords=sriashwin+sridharan&advanced%5Bemail%5D=&advanced%5Boffice_phone%5D=&advanced%5Bdept%5D=&advanced%5Bemptype%5D=&person_id=&op=Search)
 
 I am a master's Life Sciences student at the Weizmann Institute of Science, currently working in **[Daniel Dar's lab](https://www.weizmann.ac.il/plants/dar/)**
 
@@ -16,7 +16,7 @@ I am a master's Life Sciences student at the Weizmann Institute of Science, curr
 BSc (Hons.) Biomedical Sciences, SRIHER, India
 
 ---
-## Outside lab
+## Outside the lab
 Running and philosophizing about life, mostly simultaneously
 
 ---
@@ -24,7 +24,6 @@ Running and philosophizing about life, mostly simultaneously
 ## Contact
 sriashwin.sridharan@weizmann.ac.il
 
-[Wezimann profile](https://www.weizmann.ac.il/pages/search/people?keywords=sriashwin+sridharan&advanced%5Bemail%5D=&advanced%5Boffice_phone%5D=&advanced%5Bdept%5D=&advanced%5Bemptype%5D=&person_id=&op=Search)
-
 ---
+
 _Though life drifts by in oblivion, it's poignancy is cherished through the creations of man_
