@@ -1,4 +1,5 @@
 Hello, I'm Ashwin
+
 I am a master's Life Sciences student at the Weizmann Institute of Science, currently working in **Dr. Daniel Dar's lab**
 
 ---
@@ -19,7 +20,7 @@ I grew up playing badminton which diveresified into multiple other sports. Curre
 ---
 
 ## Contact
-[sriashwin.sridharan@weizmann.ac.il] (< a href="mailto:sriashwin.sridharan@weizmann.ac.il">
+[sriashwin.sridharan@weizmann.ac.il] (< a href="mailto:sriashwin.sridharan@weizmann.ac.il">)
 
 ---
 _"Though life drifts by in oblivion its poignancy is cherished through the creations of man"_
