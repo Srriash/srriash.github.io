@@ -60,5 +60,5 @@ For information about my interests outside of academia, including sports achieve
 ---
 
 <div align="center">
-  Last Updated: November 2025
+  Last Updated: 2nd November 2025
 </div>
