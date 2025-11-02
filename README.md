@@ -1,11 +1,24 @@
-# Welcome! 
+# Welcome
 
 <div align="center">
   <h1>Sriashwin Sridharan</h1>
   <h3>Master's Student in Life Sciences | Weizmann Institute of Science</h3>
+  
+  <!-- Social Media Badges -->
+  <p>
+    <a href="https://www.linkedin.com/in/sriashwin-sridharan" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="mailto:sriashwin.sridharan@weizmann.ac.il">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 </div>
 
-## About Me 
+## About Me
 
 Hello! I'm [Ashwin](https://www.weizmann.ac.il/pages/search/people?keywords=sriashwin+sridharan&advanced%5Bemail%5D=&advanced%5Boffice_phone%5D=&advanced%5Bdept%5D=&advanced%5Bemptype%5D=&person_id=&op=Search), currently pursuing my master's degree at the Weizmann Institute of Science. I'm currently rotating in **[Dr. Daniel Dar's Lab](https://www.weizmann.ac.il/plants/dar/)**.
 
@@ -28,12 +41,11 @@ Hello! I'm [Ashwin](https://www.weizmann.ac.il/pages/search/people?keywords=sria
   
 - BSc (Hons.) Biomedical Sciences, SRIHER, India
 
-## Beyond the Lab 
+## Beyond Academia
 
-When I'm not in the lab, you can find me; Running and exploring philosophical concepts (probably simultaneously)
+For information about my interests outside of academia, including sports achievements, running journey, and philosophical pursuits, please visit my [Personal Page](personal.md).
 
-
-## Let's Connect! 
+## Connect 
 
 - 📧 Email: [sriashwin.sridharan@weizmann.ac.il](mailto:sriashwin.sridharan@weizmann.ac.il)
 - 🔬 [Lab Website](https://www.weizmann.ac.il/plants/dar/)

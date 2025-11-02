@@ -1,5 +1,51 @@
+# Site Settings
 title: Sriashwin Sridharan
 description: Master's Student at the Weizmann Institute of Science
 theme: jekyll-theme-minimal
 show_downloads: false
+google_analytics: # Add your Google Analytics tracking ID here if needed
 
+# Author Settings
+author:
+  name: Sriashwin Sridharan
+  email: sriashwin.sridharan@weizmann.ac.il
+  institution: Weizmann Institute of Science
+  lab: Dr. Daniel Dar's Lab
+  department: Life Sciences
+
+# Social Media
+social:
+  linkedin: sriashwin-sridharan
+  github: Srriash
+
+# SEO Settings
+keywords: [microbial genetics, microbiome, host interaction, infectious diseases, life sciences]
+lang: en
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Personal
+    url: /personal
+  - title: Research
+    url: /#research-interests
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: [
+  "README.md",
+  "Gemfile",
+  "Gemfile.lock",
+  ".gitignore"
+]
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Custom Settings
+timezone: Asia/Jerusalem
+encoding: utf-8
