@@ -1,6 +1,10 @@
 # My life outside the lab
 
-<video controls src="https://github.com/Srriash/srriash.github.io/blob/main/assets/images/ash%20badminton%20warmup.mp4" title="assets/images/ash badminton warmup.mp4"></video>
+<video controls width="640" height="360">
+  <source src="https://raw.githubusercontent.com/Srriash/srriash.github.io/main/assets/images/ash%20badminton%20warmup.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 _coming soon...._
