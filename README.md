@@ -6,10 +6,10 @@
   
   <!-- Social Media Badges -->
   <p>
-    <a href="https://www.linkedin.com/in/sriashwin-sridharan" target="_blank">
+    <a href="https://www.linkedin.com/in/sriashwin-sridharan" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://www.instagram.com/limboash99" target="_blank">
+    <a href="https://www.instagram.com/limboash99" target="blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="mailto:sriashwin.sridharan@weizmann.ac.il">
@@ -48,7 +48,6 @@ For information about my interests outside of academia, including sports achieve
 ## Connect 
 
 - Email: [sriashwin.sridharan@weizmann.ac.il](mailto:sriashwin.sridharan@weizmann.ac.il)
-- [Lab Website](https://www.weizmann.ac.il/plants/dar/)
 - [Weizmann Institute Profile](https://www.weizmann.ac.il/pages/search/people?keywords=sriashwin+sridharan)
 
 ---
