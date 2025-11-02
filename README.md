@@ -1,8 +1,6 @@
 # Welcome
  
-## About Me
-
-Hello! My name is **Ashwin**, I am a master's student at the Weizmann Institute of Science. I'm currently rotating in **[Dr. Daniel Dar's Lab](https://www.weizmann.ac.il/plants/dar/)**.
+My name is **Ashwin**, I am a master's student at the Weizmann Institute of Science. I'm currently rotating in **[Dr. Daniel Dar's Lab](https://www.weizmann.ac.il/plants/dar/)**.
 
 ## Research Interests 
 
@@ -19,9 +17,9 @@ Hello! My name is **Ashwin**, I am a master's student at the Weizmann Institute 
 
 ## Education
 
-- MSc in Life Sciences (Current), Weizmann Institute of Science, Israel
+- MSc Life Sciences (2025 - present), Weizmann Institute of Science, Israel
   
-- BSc (Hons.) Biomedical Sciences, SRIHER, India
+- BSc (Hons.) Biomedical Sciences (2021-2025), SRIHER, India
 
 ## Beyond Academia
 
