@@ -47,9 +47,9 @@ For information about my interests outside of academia, including sports achieve
 
 ## Connect 
 
-- 📧 Email: [sriashwin.sridharan@weizmann.ac.il](mailto:sriashwin.sridharan@weizmann.ac.il)
-- 🔬 [Lab Website](https://www.weizmann.ac.il/plants/dar/)
-- 🏛️ [Weizmann Institute Profile](https://www.weizmann.ac.il/pages/search/people?keywords=sriashwin+sridharan)
+- Email: [sriashwin.sridharan@weizmann.ac.il](mailto:sriashwin.sridharan@weizmann.ac.il)
+- [Lab Website](https://www.weizmann.ac.il/plants/dar/)
+- [Weizmann Institute Profile](https://www.weizmann.ac.il/pages/search/people?keywords=sriashwin+sridharan)
 
 ---
 
