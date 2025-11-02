@@ -8,27 +8,3 @@ social:
   linkedin: sriashwin-sridharan
   github: Srriash
 
-# Navigation
-navigation:
-  - title: Personal
-    url: /personal
-  - title: Research
-    url: /#research-interests
-
-# Build Settings
-markdown: kramdown
-permalink: pretty
-exclude: [
-  "README.md",
-  "Gemfile",
-  "Gemfile.lock",
-  ".gitignore"
-]
-
-# Plugins
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-# Custom Settings
-timezone: Asia/Jerusalem
