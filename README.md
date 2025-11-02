@@ -2,7 +2,7 @@
  
 ## About Me
 
-Hello! My name is **Ashwin** and I am a master's student at the Weizmann Institute of Science. I'm currently rotating in **[Dr. Daniel Dar's Lab](https://www.weizmann.ac.il/plants/dar/)**.
+Hello! My name is **Ashwin**, I am a master's student at the Weizmann Institute of Science. I'm currently rotating in **[Dr. Daniel Dar's Lab](https://www.weizmann.ac.il/plants/dar/)**.
 
 ## Research Interests 
 
@@ -25,7 +25,7 @@ Hello! My name is **Ashwin** and I am a master's student at the Weizmann Institu
 
 ## Beyond Academia
 
-For information about my interests outside of academia, including sports achievements, running journey, and philosophical pursuits, please visit my [Personal Page](personal.md).
+Learn more about my interests beyond the lab, from sports background to my philosophical exploration, by visiting my [Personal Page](personal.md).
 
 ## Connect 
 
