@@ -1,6 +1,11 @@
 # My life outside the lab
 
+https://github.com/Srriash/srriash.github.io/issues/1#issue-3579789195
+
+
 _coming soon...._
+
+Return to [homepage](README.md)
 
 ---
 
