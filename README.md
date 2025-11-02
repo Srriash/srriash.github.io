@@ -2,7 +2,7 @@
  
 ## About Me
 
-Hello! I'm **Ashwin**, currently pursuing my master's degree at the Weizmann Institute of Science. I'm currently rotating in **[Dr. Daniel Dar's Lab](https://www.weizmann.ac.il/plants/dar/)**.
+Hello! My name is **Ashwin** and I am a master's student at the Weizmann Institute of Science. I'm currently rotating in **[Dr. Daniel Dar's Lab](https://www.weizmann.ac.il/plants/dar/)**.
 
 ## Research Interests 
 
