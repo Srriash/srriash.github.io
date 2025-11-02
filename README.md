@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/sriashwin-sridharan" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <a href="https://www.instagram.com/limboash99" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="mailto:sriashwin.sridharan@weizmann.ac.il">
@@ -20,7 +20,7 @@
 
 ## About Me
 
-Hello! I'm [Ashwin](https://www.weizmann.ac.il/pages/search/people?keywords=sriashwin+sridharan&advanced%5Bemail%5D=&advanced%5Boffice_phone%5D=&advanced%5Bdept%5D=&advanced%5Bemptype%5D=&person_id=&op=Search), currently pursuing my master's degree at the Weizmann Institute of Science. I'm currently rotating in **[Dr. Daniel Dar's Lab](https://www.weizmann.ac.il/plants/dar/)**.
+Hello! I'm **Ashwin**, currently pursuing my master's degree at the Weizmann Institute of Science. I'm currently rotating in **[Dr. Daniel Dar's Lab](https://www.weizmann.ac.il/plants/dar/)**.
 
 ## Research Interests 
 
